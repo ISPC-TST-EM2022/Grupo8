@@ -1,13 +1,13 @@
-Grupo 8
+# Grupo 8
 
 Grupo para la práctica anual de la materia Electrónica Micro controlada
-Docentes:
+## Docentes:
 
 •	Gonzalo Vera
 
 •	Jorge Morales
 
-Integrantes:
+## Integrantes:
 
 •	Maria Victoria Schafrik
 
@@ -21,7 +21,7 @@ Integrantes:
 
 •	Rojo Pedro Omar
 
-Actividad
+## Actividad
 
 Crear un informe sobre cada SOC ESP (32 o 8266) donde se deberá detallar:
 
