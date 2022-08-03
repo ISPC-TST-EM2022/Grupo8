@@ -24,6 +24,8 @@ Grupo para la práctica anual de la materia Electrónica Micro controlada
 
 ## Actividad
 
+PROYECTO 1
+
 Crear un informe sobre cada SOC ESP (32 o 8266) donde se deberá detallar:
 
 •	Especificación del módulo.
@@ -34,19 +36,8 @@ Crear un informe sobre cada SOC ESP (32 o 8266) donde se deberá detallar:
 Este material se debe tomar de la introducción de cada SOC que se muestra en la página:
 https://randomnerdtutorials.com/
 
-Hacer un informe por cada soc, los mismos deben tener las siguientes caracteristicas:
+PROYECTO 2
 
-•	Formato: A4 , PDF
+Crear un informe sobre Microchip AVR,PIC
 
-•	Margen: Estrecho
-
-•	Carrera, Materia, Docentes.
-
-•	Titulo : SOC XXXX
-
-•	Fecha, y Lugar.
-
-•	Numero de grupo e Integrantes del mismo.
-
-•	Desarrollo de los temas solicitados
 
