@@ -24,7 +24,7 @@ Grupo para la práctica anual de la materia Electrónica Micro controlada
 
 ## Actividad
 
-PROYECTO 1
+### _PROYECTO N° 1_ :heavy_check_mark:
 
 Crear un informe sobre cada SOC ESP (32 o 8266) donde se deberá detallar:
 
@@ -36,7 +36,7 @@ Crear un informe sobre cada SOC ESP (32 o 8266) donde se deberá detallar:
 Este material se debe tomar de la introducción de cada SOC que se muestra en la página:
 https://randomnerdtutorials.com/
 
-PROYECTO 2
+### _PROYECTO N° 2_ :heavy_check_mark:
 
 Crear un informe sobre Microchip AVR,PIC
 
