@@ -39,7 +39,7 @@ https://randomnerdtutorials.com/
 ### _PROYECTO N° 2_ :heavy_check_mark:
 
 Crear un informe sobre la arquitectura AVR,PIC,nucleo y perifericos.
-Este material de debe toma de la pagina de microchip: https://microchipdeveloper.com/8avr:avrcore
+Este material de debe tomar de la pagina de microchip: https://microchipdeveloper.com/8avr:avrcore
 
 
 
