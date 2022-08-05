@@ -1,4 +1,5 @@
 [![Banner.png](https://i.postimg.cc/8PkmkXkx/Banner.png)](https://postimg.cc/K4VMJNM5)
+[![TSTEM.png](https://i.postimg.cc/Y9H0wdYS/TSTEM.png)](https://postimg.cc/gwgmVqM9)
 # Grupo 8
 
 Grupo para la práctica anual de la materia Electrónica Micro controlada
