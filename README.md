@@ -41,5 +41,6 @@ https://randomnerdtutorials.com/
 Crear un informe sobre la arquitectura AVR,PIC,nucleo y perifericos.
 Este material de debe tomar de la pagina de microchip: https://microchipdeveloper.com/8avr:avrcore
 
+### _PROYECTO N° 3_ :heavy_check_mark:
 
-
+Prácticas de I/O en sistemas embebidos v1.0
