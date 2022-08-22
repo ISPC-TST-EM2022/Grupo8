@@ -22,6 +22,8 @@ Grupo para la práctica anual de la materia Electrónica Micro controlada
 
 •	Rojo Pedro Omar
 
+[![depositphotos-116294674-stock-photo-circuits-creation-with-electronic-compone.webp](https://i.postimg.cc/85pRMLys/depositphotos-116294674-stock-photo-circuits-creation-with-electronic-compone.webp)](https://postimg.cc/4K0HTHRT)
+
 ## Actividad
 
 ### _PROYECTO N° 1_ :heavy_check_mark:
