@@ -48,4 +48,3 @@ Prácticas de I/O en sistemas embebidos v1.0
 ### _PROYECTO N° 4_ :heavy_check_mark:
 
 Shields v1.0
-
