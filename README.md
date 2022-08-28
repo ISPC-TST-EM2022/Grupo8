@@ -12,8 +12,6 @@ Grupo para la práctica anual de la materia Electrónica Micro controlada
 
 •	Maria Victoria Schafrik
 
-•	Lorena Milianovich
-
 •	Vera Emilio Andres
 
 •	Juan Carlos Narváez 
@@ -48,3 +46,6 @@ Prácticas de I/O en sistemas embebidos v1.0
 ### _PROYECTO N° 4_ :heavy_check_mark:
 
 Shields v1.0
+
+### _DESARROLLO  N° 1  AUTO IOT _ :heavy_check_mark:
+Iniciamos proyecto de Auto controlado de manera remota.
