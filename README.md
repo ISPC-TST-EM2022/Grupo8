@@ -50,3 +50,4 @@ Prácticas de I/O en sistemas embebidos v1.0
 Shields v1.0
 
 ### _DESARROLLO  N° 1  AUTO IOT _ :heavy_check_mark:
+Iniciamos proyecto de Auto controlado de manera remota.
