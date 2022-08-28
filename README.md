@@ -12,8 +12,6 @@ Grupo para la práctica anual de la materia Electrónica Micro controlada
 
 •	Maria Victoria Schafrik
 
-•	Lorena Milianovich
-
 •	Vera Emilio Andres
 
 •	Juan Carlos Narváez 
