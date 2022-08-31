@@ -10,15 +10,15 @@ Grupo para la práctica anual de la materia Electrónica Micro controlada
 
 ## Integrantes:
 
-•	Maria Victoria Schafrik
+•	Maria Victoria Schafrik <<GitHub>>  https://github.com/MaviSchaf
 
-•	Vera Emilio Andres
+•	Vera Emilio Andres <<GitHub>> https://github.com/evera8
 
-•	Juan Carlos Narváez 
+•	Juan Carlos Narváez <<GitHub>> https://github.com/ProgramadorPegasus
 
-•	Rojas Jorge Daniel
+•	Rojas Jorge Daniel <<GitHub>> https://github.com/Cabro645
 
-•	Rojo Pedro Omar
+•	Rojo Pedro Omar <<GitHub>> https://github.com/tecnosisnet
 
 ## Actividad
 
