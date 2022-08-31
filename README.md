@@ -41,7 +41,7 @@ Este material de debe tomar de la pagina de microchip: https://microchipdevelope
 
 ### _PROYECTO N° 3_ :heavy_check_mark:
 
-Prácticas de I/O en sistemas embebidos v1.0
+Prácticas de I/O en sistemas embebidos v1.0 .
 
 ### _PROYECTO N° 4_ :heavy_check_mark:
 
