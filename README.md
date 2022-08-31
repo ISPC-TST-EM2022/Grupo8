@@ -1,4 +1,4 @@
-//[![TSTEM.png](https://i.postimg.cc/Y9H0wdYS/TSTEM.png)](https://postimg.cc/gwgmVqM9)
+[![TSTEM.png](https://user-images.githubusercontent.com/84986194/187353661-6db0c05e-e5fc-4c83-85fc-9ce8fbd4739e.png)
 # Grupo 8
 
 Grupo para la práctica anual de la materia Electrónica Micro controlada
