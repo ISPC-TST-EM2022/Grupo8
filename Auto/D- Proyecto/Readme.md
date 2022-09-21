@@ -39,11 +39,14 @@ Capturas del broker:
 
 ### 📹 Videos del proyecto ...
 <a href='https://youtu.be/_-yfnlz7STw' target='_blank'>
-<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/semana1.png' alt='Semana 1' />
+<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/presentacion.jpg' alt='Semana 1' />
 </a>
 <a href='https://youtu.be/GcXVVOA9xXE' target='_blank'>
-<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/semana2.png' alt='Semana 2' />
+<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/semana%202.jpg' alt='Semana 2' />
 </a>
 <a href='' target='_blank'>
-<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/semana3.png' alt='Semana 3' />
+<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/meetG8.jpg' alt='Meet' />
+</a>
+<a href='' target='_blank'>
+<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/semana%203.jpg' alt='Semana 3' />
 </a>
