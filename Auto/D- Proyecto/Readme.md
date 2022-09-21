@@ -27,7 +27,14 @@ Se adjunta app, para la instalación en dispositivos android: <a href='https://g
   La misma es de uso libre, y esta disponible en la tienda de Google.  Permite armar y configurar el dashboard del vehiculo.
   
   Capturas de un dashboard en teléfono móvil:
+  
 ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/panel1.jpeg) ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/panel1a.jpeg)
+
+Capturas del broker:
+![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/login_broker.jpg)
+![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/dashboard_broker.jpg)
+![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/conecciones_broker.jpg)
+
  
 
 ### 📹 Videos del proyecto ...
