@@ -34,7 +34,7 @@ Se adjunta app, para la instalación en dispositivos android: <a href='https://g
 
 ### 📹 Videos del proyecto ...
 <a href='https://youtu.be/_-yfnlz7STw' target='_blank'>
-<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/semana1.jpeg' alt='Semana 1' />
+<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/semana1.png' alt='Semana 1' />
 </a>
 <a href='https://youtu.be/GcXVVOA9xXE' target='_blank'>
 <img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/semana2.png' alt='Semana 2' />
