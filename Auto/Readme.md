@@ -1,2 +1,0 @@
-Hacer Readme
-en proceso
