@@ -1,12 +1,15 @@
 ## INFORMACIÓN DE CONECTIVIDAD PROVISTA AL PROYECTO:
 El vehiculo posee dos metodos principales de control: 
    * Por control remoto directo, usando sensor IR
-   * Por control remoto indirecto, via wifi, usando protocolo mqtt.
-                                                 
-### Datos de coneccion y acceso mqtt:
-El broker se encuentra instalado en un vps propio, de acceso público, lo que facilita 
-el control de los integrantes del grupo que se encuentran en diferentes provincias, permitiéndoles
-realizar pruebas de control y monitoreo del vehículo.
+   * Por control remoto indirecto, via WIFI, usando protocolo mqtt.
+
+### Control remoto Infrarojo:
+Se utilizó un sensor Vs1838B, el cual recibe y decodifica al transmisor IR.
+Se programaron las funcionalidades de control de motores, encendido de Led y envio de info de temperatura y humedad desde el DHT22.
+
+### Datos de coneccion WIFI y acceso mqtt:
+Para esta funcionalidad, se utilizó la placa wifi que posee el esp32 y se instaló un broker mqtt en VPS propio, con acceso público, lo que facilita 
+el control de los integrantes del grupo que se encuentran en diferentes provincias, permitiéndoles realizar pruebas de control y monitoreo del vehículo.
 
 **Broker**: siot.infovd.com.ar
 **Puerto** tcp : 1883  
@@ -22,9 +25,8 @@ auto/izquierda : 4  |  auto/led1 : 0 1 |  auto/envioth : 200
 
 auto/temperatura  |  auto/humedad  |  auto/distanciao  
 
+Se utilizó una app genérica de uso libre disponible en Google Play. Permite armar y configurar el dashboard del vehiculo.
 Se adjunta app, para la instalación en dispositivos android: <a href='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/iot-mqtt-panel.apk' target='_blank'>iot-mqtt-panel.apk</a>
-
-  La misma es de uso libre, y esta disponible en la tienda de Google.  Permite armar y configurar el dashboard del vehiculo.
   
   Capturas de un dashboard en teléfono móvil:
   
@@ -35,9 +37,7 @@ Capturas del broker:
 ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/dashboard_broker.jpg)
 ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/conecciones_broker.jpg)
 
- 
-
-### 📹 Videos del proyecto ...
+ ### 📹 Videos del proyecto ...
 <a href='https://youtu.be/_-yfnlz7STw' target='_blank'>
 <img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/presentacion.jpg' alt='Semana 1' />
 </a>
