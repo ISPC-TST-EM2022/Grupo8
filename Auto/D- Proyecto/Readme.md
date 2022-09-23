@@ -16,6 +16,7 @@ el control de los integrantes del grupo que se encuentran en diferentes provinci
 **Usuario:** (oculto)  
 **Password:** (oculto)
 
+Los tópicos se idearon de la siguiente forma, para una mejor comprensión y didáctica:
 **Topicos para Publicación:**
 auto/adelante  : 2  |  auto/atras: 8  |   auto/derecha : 6
 
