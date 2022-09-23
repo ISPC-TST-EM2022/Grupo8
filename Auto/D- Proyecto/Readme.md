@@ -32,6 +32,7 @@ Se adjunta app, para la instalación en dispositivos android: <a href='https://g
   
 ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/panel1.jpeg) ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/panel1a.jpeg)
 
+Para el broker se instaló en el vps: Debian 11 y la version gratuita de EMQX, el cual es un broker de altas prestaciones y uso profesional. 
 Capturas del broker:
 ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/login_broker.jpg)
 ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/dashboard_broker.jpg)
