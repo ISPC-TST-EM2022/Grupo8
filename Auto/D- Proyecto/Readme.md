@@ -17,7 +17,9 @@ el control de los integrantes del grupo que se encuentran en diferentes provinci
 **Password:** (oculto)
 
 Los tópicos se idearon de la siguiente forma, para una mejor comprensión y didáctica:
+
 **Topicos para Publicación:**
+
 auto/adelante  : 2  |  auto/atras: 8  |   auto/derecha : 6
 
 auto/izquierda : 4  |  auto/led1 : 0 1 |  auto/envioth : 200
@@ -27,17 +29,17 @@ auto/izquierda : 4  |  auto/led1 : 0 1 |  auto/envioth : 200
 auto/temperatura  |  auto/humedad  |  auto/distanciao  
 
 Se utilizó una app genérica de uso libre disponible en Google Play. Permite armar y configurar el dashboard del vehiculo.
-Se adjunta app, para la instalación en dispositivos android: <a href='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/iot-mqtt-panel.apk' target='_blank'>iot-mqtt-panel.apk</a>
+Se adjunta app, para la instalación en dispositivos android: <a href='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/Software/iot-mqtt-panel.apk' target='_blank'>iot-mqtt-panel.apk</a>
   
   Capturas de un dashboard en teléfono móvil:
   
-![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/panel1.jpeg) ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/panel1a.jpeg)
+![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/Software/panel1.jpeg) ![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/Software/panel1a.jpeg)
 
 Para el broker se instaló en el vps: Debian 11 y la version gratuita de EMQX, el cual es un broker de altas prestaciones y uso profesional. 
 Capturas del broker:
-![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/login_broker.jpg)
-![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/dashboard_broker.jpg)
-![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/conecciones_broker.jpg)
+![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/Software/login_broker.jpg)
+![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/Software/dashboard_broker.jpg)
+![image](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Auto/D-%20Proyecto/Software/conecciones_broker.jpg)
 
  ### 📹 Videos del proyecto ...
 <a href='https://youtu.be/_-yfnlz7STw' target='_blank'>
