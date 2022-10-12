@@ -15,7 +15,20 @@ Esta definición general de tratamiento incluye potabilización, purificación, 
  -	Tratamiento secundario: Es la descomposición biológica de materia orgánica biodegradable presente en el agua residual, transformándola en sólidos suspendidos que se eliminan más fácilmente. Incluye: lodos activados, reactores anaerobios, filtros percoladores, lagunaje, etc.
  
  -	Tratamiento terciario: Es la eliminación de contaminantes que perduran después de aplicar los tratamientos primario y secundario; son tratamientos específicos y costosos que usan tecnologías avanzadas, se usan cuando se requiere un efluente final de mayor calidad. Microfiltración, ultrafiltración, nanofiltración, absorción en carbón activado, osmosis inversa, electrocoagulación y desinfección.
- 
+
+### Justificación del Proyecto:
+La automatización de cualquier proceso tiene como finalidad disminuir los costos de operación y mejorar los estándares de calidad; Actualmente la mayoría de las plantas de tratamiento de agua tienen algún grado de automatización, desde el uso de PLCs sencillos para operaciones pequeñas donde sólo se monitorea una o dos variables, hasta el control de sistemas distribuidos, plantas de potabilización y estaciones de bombeo. 
+Aun así es poco el desarrollo que se ha logrado en la automatización de los procesos de tratamiento de aguas. Parte del control se realiza manualmente lo cual aumenta los costos de operación y da lugar a errores humanos. La mayoría de las plantas cuenta con algún PLC e instrumentos de  medición, pero no se realiza una supervisión ni almacenamiento de las variables del proceso, perdiéndose toda esa información. 
+
+Entre las ventajas de la automatización, especialmente provechosas para este tipo de proceso están:
+
+- 	La adquisición de datos en tiempo real. La ocurrencia de algún fallo puede degradar la eficiencia del proceso rápidamente, en cuestión de minutos, posiblemente contaminando el agua que se encuentra almacenada. El fallo también puede ocasionar alguna descompostura en el equipo. Es importante contar con algún aviso rápido y de este modo actuar oportunamente.
+
+-	El control automático y de manera remota. Esto libera a los operadores de labores repetitivas y propensas al error humano.
+
+-	La configuración gráfica por medio de display de fácil manejo. El operador pueda ajustar las variables del proceso según se requiera, por ejemplo cuando la composición del agua a tratar presenta variaciones.
+
+-	La adquisición de datos de manera remota. Principalmente si la planta se encuentra en un área geográfica extensa y la concentración de la supervisión en un solo lugar puede mejorar la administración de los recursos.
 
 ## Diagrama de bloques:
 ![image](https://user-images.githubusercontent.com/69168165/195323864-d57cfd17-58c0-45ee-82d1-e67d392a16fc.png)
