@@ -1,5 +1,5 @@
 
-## PROYECTO: TRATAMIENTO DE LIQUIDOS INDUSTRIALES RESIDUALES
+## PROYECTO: TRATAMIENTO DE LIQUIDOS RESIDUALES
 [![hoja2.png](https://i.postimg.cc/hP0MfL1q/hoja2.png)](https://postimg.cc/D881NbNC)
 
 Actividad:
