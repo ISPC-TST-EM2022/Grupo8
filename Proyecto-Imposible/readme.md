@@ -1,5 +1,5 @@
 
-## PROYECTO: TRATAMIENTO DE LIQUIDOS RESIDUALES
+# PROYECTO: TRATAMIENTO DE EFLUENTES LIQUIDOS
 [![hoja2.png](https://i.postimg.cc/hP0MfL1q/hoja2.png)](https://postimg.cc/D881NbNC)
 
 Actividad:
@@ -23,5 +23,5 @@ C ) En esta carpeta colocaran el material bibliografico que les seria util para 
 
 D ) En esta carpeta ira la implementacion del proyecto, con las ramas de HARD y SOFT del desarrollo, donde se plasmara los esquemas electronicos utilizados (simulados o no) y el firmware desarrollado para el prototipo. Pueden utilizar las carpetas auxiliares que consideren necesarias, como ser .SHIELD , . GitIgnore, etc.
 
+[![img_fondo.png](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Proyecto-Imposible/B-Bibliografia/img_fondo.png)]
 
-[![hoja6.png](https://i.postimg.cc/SKTw87y5/hoja6.png)](https://postimg.cc/sBW6CWG9)
