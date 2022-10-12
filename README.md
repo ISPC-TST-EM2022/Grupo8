@@ -51,4 +51,4 @@ Shields v1.0
 Iniciamos proyecto de Auto controlado de manera remota.
 
 ### _PROYECTO IMPOSIBLE_ :heavy_check_mark:
-Iniciamos proyecto imposible : Tratamiento de liquidos industriales
+Iniciamos proyecto imposible : Tratamiento de liquidos residuales
