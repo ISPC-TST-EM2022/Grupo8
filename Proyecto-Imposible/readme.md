@@ -2,7 +2,7 @@
 # PROYECTO: TRATAMIENTO DE EFLUENTES LIQUIDOS
 [![hoja2.png](https://i.postimg.cc/hP0MfL1q/hoja2.png)](https://postimg.cc/D881NbNC)
 
-## PROPUESTAS PARA EL MANEJO SUSTENTABLE:
+## PROPUESTAS PARA EL DESARROLLO SUSTENTABLE:
 
 ### Aunque reconocemos el valor del agua, el manejo que hacemos del recurso hídrico deja mucho que desear: El recurso está mal distribuido, es escaso y cada vez se encuentra más contaminado. Para mitigar este problema debemos realizar las siguientes acciones:
 
