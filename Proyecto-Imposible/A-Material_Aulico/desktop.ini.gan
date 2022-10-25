@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Proyecto Imposible 1" company="Grupo 8" webLink="http://" view-date="2022-09-30" view-index="0" gantt-divider-location="461" resource-divider-location="300" version="3.2.3230" locale="es_AR">
+    <description>
+        <![CDATA[ Planta de tratamiento de Liquidos Residuales ]]>
+    </description>
+    <view zooming-state="default:2" id="gantt-chart">
+        <field id="tpd3" name="Name" width="263" order="0"/>
+        <field id="tpd4" name="Begin date" width="99" order="1"/>
+        <field id="tpd5" name="End date" width="98" order="2"/>
+        <option id="filter.completedTasks" value="false"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Inicio de proyecto" color="#8cb6ce" meeting="false" start="2022-10-04" duration="2" complete="0" thirdDate="2022-10-11" thirdDate-constraint="0" expand="true">
+            <task id="2" name="Reunion Inicial y coordinación" color="#8cb6ce" meeting="false" start="2022-10-04" duration="1" complete="0" thirdDate="2022-09-27" thirdDate-constraint="0" expand="true"/>
+            <task id="3" name="Busqueda de Informacion" color="#8cb6ce" meeting="false" start="2022-10-05" duration="1" complete="0" thirdDate="2022-09-27" thirdDate-constraint="0" expand="true"/>
+            <task id="4" name="Analisis de variables" color="#8cb6ce" meeting="false" start="2022-10-05" duration="1" complete="0" thirdDate="2022-09-27" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="5" name="Desarrollo y diseño." meeting="false" start="2022-10-10" duration="5" complete="0" expand="true">
+            <task id="7" name="Logica y Diseño" color="#8cb6ce" meeting="false" start="2022-10-10" duration="1" complete="0" thirdDate="2022-09-19" thirdDate-constraint="0" expand="true"/>
+            <task id="8" name="Investigacion y puesta en marcha" color="#8cb6ce" meeting="false" start="2022-10-10" duration="4" complete="0" thirdDate="2022-09-19" thirdDate-constraint="0" expand="true"/>
+            <task id="9" name="Instalacion y prueba para mejoras" color="#8cb6ce" meeting="false" start="2022-10-11" duration="4" complete="0" thirdDate="2022-09-19" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="13" name="Modelado Final del Proyecto" color="#8cb6ce" meeting="false" start="2022-10-11" duration="6" complete="0" thirdDate="2022-09-19" thirdDate-constraint="0" expand="true"/>
+        <task id="10" name="Presentacion del proyecto" meeting="false" start="2022-10-03" duration="21" complete="0" expand="true">
+            <task id="11" name="Supervision y finalizacion proyecto" color="#8cb6ce" meeting="false" start="2022-10-03" duration="21" complete="0" thirdDate="2022-09-19" thirdDate-constraint="0" expand="true"/>
+            <task id="12" name="Fin del Proyecto." color="#8cb6ce" meeting="false" start="2022-10-28" duration="2" complete="0" thirdDate="2022-09-19" thirdDate-constraint="0" expand="true"/>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
