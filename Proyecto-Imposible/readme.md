@@ -22,6 +22,8 @@
 
 ### Se ha procurado usar tecnologías económicas y de fácil manejo. Sobre todo se ha buscado incluir la conectividad con Internet, para hacer más flexible el control del sistema, ya que por los volúmenes de agua que se manejan, los equipos deben funcionar continuamente durante largo tiempo y la automatización y telemetría pueden ayudar a supervisar la operación del equipo durante estos largos periodos y actuar justo en el momento que se requiera una acción.
 
+[![img_fondo.png](https://www.fisicanet.com.ar/quimica/aguas/a/aguas-efluentes-01.png)]
+
 
 [![img_fondo.png](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Proyecto-Imposible/B-Bibliografia/img_fondo.png)]
 
