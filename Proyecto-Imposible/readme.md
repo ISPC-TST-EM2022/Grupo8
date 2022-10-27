@@ -32,6 +32,11 @@
 ![img_fondo.png](https://www.fisicanet.com.ar/quimica/aguas/a/aguas-efluentes-01.png)
 
 
+Video Simulacion (enlace youtube)
+
+[![Alt text](https://i9.ytimg.com/vi/Ki3984FwT8w/mq2.jpg?sqp=CNDV55oG&rs=AOn4CLA4S7y_E0pbg8PTLAg-mwbbCMMXQg)](https://www.youtube.com/watch?v=Ki3984FwT8w)
+
+
  ###    El proceso de tratamiento de aguas residuales Planta para planta de tratamiento de aguas residuales de Industrias de Alimento Panificados  consiste en transportar estas aguas hasta la planta de tratamiento y filtrarlas por un control de excesos (desarenador) cuya función es remover las partículas de cierto tamaño más pesadas que el agua. A continuación se deposita el agua en dos tanques de tratamiento y es sometida a un tratamiento aerobio por medio de inyección ejecutado por un compresor de aire. La no ejecución eficiente del tratamiento de aguas residuales incurre en sanciones pecuniarias, además de contribuir con el deterioro del medio ambiente. Planteamiento El proceso de tratamiento de aguas residuales  presenta deficiencias en la toma de medias de caudal (Q) y pH al realizarse manualmente (OFFLINE) y se desconoce los niveles de oxígeno del agua, Estos niveles de oxígenos no son controlados y los aireadores funcionan todo el tiempo consumiendo grandes cantidades de ENERGIA, lo que conlleva a implementar controles manuales aleatorios sin un parámetro determinado de encendido y apagado del compresor de aire. Para incrementar y optimizar el desempeño de este proceso, se investigarán las técnicas de automatización y control que se pueden aplicar. 5.2 Formulación ¿Es posible controlar y supervisar en tiempo real el sistema de tratamiento de aguas residuales y hacer más eficiente el proceso en el sector de aireadores ?
 
 [![img_fondo.png](https://fabianisrl.com.ar/wp-content/uploads/2015/04/Difusores-aireadores-efluentes-Grundfos-Fabiani-srl-1.jpg)]
