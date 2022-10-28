@@ -33,4 +33,10 @@ Entre las ventajas de la automatización, especialmente provechosas para este ti
 ## Diagrama de bloques:
 ![image](https://user-images.githubusercontent.com/69168165/195323864-d57cfd17-58c0-45ee-82d1-e67d392a16fc.png)
 
+### 📹 Videos del proyecto ...
+<a href='https://youtu.be/6kUSknI_8Ag' target='_blank'>
+<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Proyecto-Imposible/D-Proyecto/presentacion.jpg' alt='Semana 1' />
+</a>
+
+
 
