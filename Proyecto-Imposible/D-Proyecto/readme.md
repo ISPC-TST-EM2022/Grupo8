@@ -37,6 +37,8 @@ Entre las ventajas de la automatización, especialmente provechosas para este ti
 <a href='https://youtu.be/6kUSknI_8Ag' target='_blank'>
 <img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Proyecto-Imposible/D-Proyecto/presentacion.jpg' alt='Semana 1' />
 </a>
-
+<a href='https://youtu.be/OU2_6kWGZzI' target='_blank'>
+<img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Proyecto-Imposible/D-Proyecto/simulacion.jpg' alt='Semana 1' />
+</a>
 
 
