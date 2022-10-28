@@ -1,0 +1,46 @@
+#define SensorPin A0         // DEFINIMOS QUE PIN ANALOGICO VAMOS A USAR EN MI CASO A0,pero puede ser cualquiera desde A0 hasta A5.
+unsigned long int avgValue;  //ALMACENAMOS EL VALOR QUE NOS DEVUELVE EL SENSOR.
+float b;
+int buf[10],temp;
+ 
+void setup()
+{
+  pinMode(13,OUTPUT);  // INDICAMOS QUE EL PIN 13 ES SALIDA YA QUE ESTE TIENE UN LED INCORPORADO EN LA TARJETA ARDUINO Y NOS SIRVE PARA VERIFICAR.
+  pinMode(2,OUTPUT); // INDICAMOS QUE EL PIN DIGITAL 2 ES SALIDA PARA EL RELE.
+  Serial.begin(9600);  
+  Serial.println("Ready");    //COMPROBAR EL PUERTO SERIE
+}
+void loop()
+{
+  for(int i=0;i<10;i++)       //TOMAMOS 10 MUESTRAS DEL SENSOR PARA EVALUARLAS.
+  { 
+    buf[i]=analogRead(SensorPin);
+    delay(10);
+  }
+  for(int i=0;i<9;i++)        //REALIZAMOS EL PROCESO DE TOMA DE DATOS.
+  {
+    for(int j=i+1;j<10;j++)
+    {
+      if(buf[i]>buf[j])
+      {
+        temp=buf[i];
+        buf[i]=buf[j];
+        buf[j]=temp;
+      }
+    }
+  }
+  avgValue=0;
+  for(int i=2;i<8;i++)                      //RECOGEMOS DOS DATOS OBTENIDOS.
+    avgValue+=buf[i];
+  float phValue=(float)avgValue*5.0/1024/6; //CONVERTIMOS EN MILIVOLTIOS.
+  phValue=3.5*phValue; //CONVERTIMOS MILIVOLTIOS EN PH.
+  phValue=phValue+0.30;// EN ESTA LINEA el +0,30 REPRESENTA UNA CALIBRACIÓN POR CODIGO.
+  if(phValue <= 6.0){Serial.print("PARO AIREADORES"); digitalWrite(2,LOW);}// ESTA LINEA SIRVE PARA PREGUNTAR SI EL PH ES MENOR QUE 6.70, EN CASO DE SER AFIRMATIVO APAGA  EL AIREADORES.
+  Serial.print("    pH:");  // ESTAS LINEAS NOS PINTAN EL VALOR EN TIEMPO REAL EN LA CONSOLA
+  Serial.print(phValue,2);
+  Serial.println(" ");
+  digitalWrite(13, HIGH);   // ESTO HACE ENCENDER Y APAGAR EL LED DEL PIN 13 EN CADA MEDICCIÓN.    
+  delay(800);
+  digitalWrite(13, LOW); 
+ 
+}
