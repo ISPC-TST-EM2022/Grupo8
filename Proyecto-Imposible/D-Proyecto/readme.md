@@ -41,4 +41,8 @@ Entre las ventajas de la automatización, especialmente provechosas para este ti
 <img width='30%' src='https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo8/blob/main/Proyecto-Imposible/D-Proyecto/simulacion.jpg' alt='Semana 1' />
 </a>
 
+### Enlace Simulación Tinkercad:
+https://www.tinkercad.com/things/3w1Y28UlCms-fabulous-blad/editel?sharecode=uqN3TF8W3ARHoiem1fedZfhNYes_U3TlMZyrZmqT2mY
+
+
 
